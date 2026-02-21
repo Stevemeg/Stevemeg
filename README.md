@@ -2,13 +2,13 @@
 
 # Kona Bharath Vamshidhar Reddy
 
-### AI/ML Engineer · Generative AI · Synthetic Data · Multimodal Systems
+### AI/ML Engineer · Synthetic Data · Multimodal AI · LLM Agent Systems
 
-*Building AI systems that solve real-world data limitations — not just training models.*
+*Building production-grade AI systems that solve real-world data limitations*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kona-bharath-vamshidhar-reddy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stevemeg)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Stevemeg-181717?style=for-the-badge&logo=github)](https://github.com/Stevemeg)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
 
 </div>
 
@@ -16,12 +16,14 @@
 
 ## About Me
 
-I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimodal AI**, and **LLM-based Multi-Agent Systems**. My work sits at the intersection of generative modeling and real-world AI deployment — building systems that don't just perform well in notebooks, but solve genuine data bottlenecks at scale.
+I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimodal AI**, and **LLM-based Agent Systems**. My focus is on solving real-world data bottlenecks using generative models — GANs, VAEs, diffusion models, and transformer architectures.
 
--  Building **synthetic data pipelines** for domains where real data is scarce, sensitive, or expensive (medical, genomics, tabular)
--  Designing **multi-agent LLM architectures** using LangGraph and LangChain for intelligent, autonomous workflows
--  Engineering **multimodal AI systems** that reason across image, text, and structured data
--  Applying generative AI to **medical imaging** — MRI synthesis, X-ray augmentation, pathology generation
+I don't just train models. I build complete, end-to-end AI systems ready for production.
+
+Currently building:
+-  Advanced synthetic data pipelines for medical and genomic datasets
+-  Multi-agent LLM systems with memory, tool use, and reasoning capabilities
+-  Multimodal AI combining vision and structured data (VQA systems)
 
 ---
 
@@ -29,87 +31,98 @@ I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimoda
 
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Deep Learning Frameworks
+### ML & Deep Learning Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Generative AI & Architectures
-![GANs](https://img.shields.io/badge/GANs-black?style=for-the-badge)
-![VAEs](https://img.shields.io/badge/VAEs-black?style=for-the-badge)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-black?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-black?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+### Generative AI
+![GANs](https://img.shields.io/badge/GANs-FF6B6B?style=for-the-badge)
+![VAEs](https://img.shields.io/badge/VAEs-FF6B6B?style=for-the-badge)
+![Diffusion%20Models](https://img.shields.io/badge/Diffusion%20Models-FF6B6B?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6B6B?style=for-the-badge)
+
 ### Synthetic Data Frameworks
-![SDV](https://img.shields.io/badge/SDV-4B0082?style=for-the-badge)
-![TVAE](https://img.shields.io/badge/TVAE-4B0082?style=for-the-badge)
-![CopulaGAN](https://img.shields.io/badge/CopulaGAN-4B0082?style=for-the-badge)
-![TabDDPM](https://img.shields.io/badge/TabDDPM-4B0082?style=for-the-badge)
-![CTGAN](https://img.shields.io/badge/CTGAN-4B0082?style=for-the-badge)
+![SDV](https://img.shields.io/badge/SDV-4A90D9?style=for-the-badge)
+![TVAE](https://img.shields.io/badge/TVAE-4A90D9?style=for-the-badge)
+![CopulaGAN](https://img.shields.io/badge/CopulaGAN-4A90D9?style=for-the-badge)
+![TabDDPM](https://img.shields.io/badge/TabDDPM-4A90D9?style=for-the-badge)
 
 ### LLM & Agent Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Data & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-### Tools & Workflow
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## Featured Projects
 
-###  Synthetic Medical Image Generation
-> Conditional GAN trained on Brain MRI, Chest X-ray, and Skin Cancer datasets to generate high-fidelity synthetic medical images for data augmentation and privacy-preserving AI research.
+###  [Synthetic Data Generation Suite](https://github.com/Stevemeg/Synthetic-Data)
+End-to-end synthetic data pipeline covering tabular, medical imaging, and genomic data. Built using TVAE, CopulaGAN, and TabDDPM with statistical fidelity evaluation and privacy preservation analysis.
 
-**Stack:** PyTorch · cGAN · DCGAN · Medical Imaging · Python
-
----
-
-###  Genomic Synthetic Data Generator
-> TVAE trained on TCGA-BRCA gene expression data to synthesize realistic genomic profiles — enabling research on sensitive biological datasets without privacy risk.
-
-**Stack:** TVAE · SDV · Genomics · Pandas · Python
+`Python` `PyTorch` `SDV` `TVAE` `CopulaGAN` `TabDDPM` `GANs`
 
 ---
 
-###  Synthetic Tabular Data Pipeline
-> End-to-end pipeline comparing TVAE, CopulaGAN, and TabDDPM for tabular data synthesis with statistical fidelity evaluation metrics (TVD, KS-test, correlation preservation).
+###  [Medical AI Copilot](https://github.com/Stevemeg/medical-ai-copilot)
+AI-powered clinical decision support system integrating LLM reasoning with medical knowledge bases. Built using LangChain/LangGraph for multi-step agent workflows.
 
-**Stack:** SDV · TabDDPM · CTGAN · TVAE · Scikit-Learn · Python
-
----
-
-###  Multi-Agent AI System
-> Intelligent multi-agent architecture using LangGraph with memory, tool use, and inter-agent communication — designed for autonomous task decomposition and execution.
-
-**Stack:** LangGraph · LangChain · OpenAI · Python
+`Python` `LangChain` `LangGraph` `HuggingFace` `Medical NLP`
 
 ---
 
-###  Deep Multimodal Visual Question Answering (VQA)
-> Multimodal deep learning system combining vision encoders and language models to answer questions about images — trained and evaluated on VQA benchmark datasets.
+###  [Deep Multimodal VQA](https://github.com/Stevemeg/Deep-Multimodal-VQA)
+Deep learning system for Visual Question Answering combining CNN-based image encoders with transformer-based language models for cross-modal reasoning.
 
-**Stack:** PyTorch · Transformers · HuggingFace · CLIP · Python
+`Python` `PyTorch` `Transformers` `Computer Vision` `NLP`
 
 ---
 
-## Currently Building
+## Certifications
 
--  Advanced **synthetic genomic + imaging pipelines** with privacy guarantees
--  **Multi-agent systems** with persistent memory, RAG, and external tool integration
--  **Medical AI Copilot** — AI assistant for clinical decision support using multimodal inputs
+| Certificate | Issuer | Date | Verify |
+|---|---|---|---|
+| Data Analysis with Tableau | Tableau / Coursera | Nov 2024 | [✓ Verify](https://coursera.org/verify/0UUM3W2VA43K) |
+| Intro to Operating Systems & Hardware | Illinois Tech / Coursera | Dec 2024 | [✓ Verify](https://coursera.org/verify/BQNC0VCW4T7T) |
+| Programming Fundamentals in Kotlin | Meta / Coursera | Nov 2024 | [✓ Verify](https://coursera.org/verify/XWMQH4BRHS2N) |
+| Learn JavaScript | Scrimba / Coursera | Mar 2024 | [✓ Verify](https://coursera.org/verify/F89MKQZW7RFE) |
+| Python for Beginners | Coursera | Jan 2024 | [✓ Verify](https://coursera.org/verify/DNYB4HNC9QH3) |
+
+---
+
+## What I'm Currently Learning
+
+-  Fine-tuning LLMs with LoRA/QLoRA on domain-specific datasets
+-  MLflow & Weights and Biases for experiment tracking
+-  Deploying ML models on HuggingFace Spaces & cloud platforms
+-  Advanced GAN architectures: StyleGAN, Conditional GANs, Diffusion Models
+
+---
+
+## Specializations
+
+```
+Synthetic Data Generation          Multimodal AI & VQA
+Medical Image Synthesis (GANs)     LLM Agent Architectures
+Genomic Data Modeling              Tabular Data Synthesis
+Generative AI Systems              Data Analysis & Visualization
+```
 
 ---
 
@@ -117,30 +130,24 @@ I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimoda
 
 <div align="center">
 
-![Kona Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevemeg&show_icons=true&theme=dark&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0d1117)
+![Kona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevemeg&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevemeg&layout=compact&theme=dark&hide_border=true&title_color=00D4FF&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [Kona Bharath Vamshidhar Reddy](https://www.linkedin.com/in/kona-bharath-vamshidhar-reddy) |
-| 💻 GitHub | [Stevemeg](https://github.com/Stevemeg) |
-| 📧 Email | konabharath2004@gmail.com |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevemeg&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
 </div>
 
 ---
 
+## Goal
+
+> *"To build large-scale AI systems that solve real-world data bottlenecks using generative AI — making high-quality training data accessible, private, and scalable for the next generation of machine learning."*
+
+---
+
 <div align="center">
 
-*"The best model is the one that works on real data. The best engineer is the one who creates that data when it doesn't exist."*
+**Let's connect and build something impactful.**
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL_HERE)
 
 </div>
