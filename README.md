@@ -18,10 +18,10 @@
 
 I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimodal AI**, and **LLM-based Multi-Agent Systems**. My work sits at the intersection of generative modeling and real-world AI deployment — building systems that don't just perform well in notebooks, but solve genuine data bottlenecks at scale.
 
-- 🧬 Building **synthetic data pipelines** for domains where real data is scarce, sensitive, or expensive (medical, genomics, tabular)
-- 🤖 Designing **multi-agent LLM architectures** using LangGraph and LangChain for intelligent, autonomous workflows
-- 🖼️ Engineering **multimodal AI systems** that reason across image, text, and structured data
-- 🏥 Applying generative AI to **medical imaging** — MRI synthesis, X-ray augmentation, pathology generation
+-  Building **synthetic data pipelines** for domains where real data is scarce, sensitive, or expensive (medical, genomics, tabular)
+-  Designing **multi-agent LLM architectures** using LangGraph and LangChain for intelligent, autonomous workflows
+-  Engineering **multimodal AI systems** that reason across image, text, and structured data
+-  Applying generative AI to **medical imaging** — MRI synthesis, X-ray augmentation, pathology generation
 
 ---
 
@@ -70,35 +70,35 @@ I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimoda
 
 ## Featured Projects
 
-### 🧬 Synthetic Medical Image Generation
+###  Synthetic Medical Image Generation
 > Conditional GAN trained on Brain MRI, Chest X-ray, and Skin Cancer datasets to generate high-fidelity synthetic medical images for data augmentation and privacy-preserving AI research.
 
 **Stack:** PyTorch · cGAN · DCGAN · Medical Imaging · Python
 
 ---
 
-### 🧪 Genomic Synthetic Data Generator
+###  Genomic Synthetic Data Generator
 > TVAE trained on TCGA-BRCA gene expression data to synthesize realistic genomic profiles — enabling research on sensitive biological datasets without privacy risk.
 
 **Stack:** TVAE · SDV · Genomics · Pandas · Python
 
 ---
 
-### 📊 Synthetic Tabular Data Pipeline
+###  Synthetic Tabular Data Pipeline
 > End-to-end pipeline comparing TVAE, CopulaGAN, and TabDDPM for tabular data synthesis with statistical fidelity evaluation metrics (TVD, KS-test, correlation preservation).
 
 **Stack:** SDV · TabDDPM · CTGAN · TVAE · Scikit-Learn · Python
 
 ---
 
-### 🤖 Multi-Agent AI System
+###  Multi-Agent AI System
 > Intelligent multi-agent architecture using LangGraph with memory, tool use, and inter-agent communication — designed for autonomous task decomposition and execution.
 
 **Stack:** LangGraph · LangChain · OpenAI · Python
 
 ---
 
-### 👁️ Deep Multimodal Visual Question Answering (VQA)
+###  Deep Multimodal Visual Question Answering (VQA)
 > Multimodal deep learning system combining vision encoders and language models to answer questions about images — trained and evaluated on VQA benchmark datasets.
 
 **Stack:** PyTorch · Transformers · HuggingFace · CLIP · Python
@@ -107,9 +107,9 @@ I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimoda
 
 ## Currently Building
 
-- 🔬 Advanced **synthetic genomic + imaging pipelines** with privacy guarantees
-- 🧠 **Multi-agent systems** with persistent memory, RAG, and external tool integration
-- 🖼️ **Medical AI Copilot** — AI assistant for clinical decision support using multimodal inputs
+-  Advanced **synthetic genomic + imaging pipelines** with privacy guarantees
+-  **Multi-agent systems** with persistent memory, RAG, and external tool integration
+-  **Medical AI Copilot** — AI assistant for clinical decision support using multimodal inputs
 
 ---
 
@@ -133,7 +133,7 @@ I'm an AI/ML Engineer specializing in **Synthetic Data Generation**, **Multimoda
 |---|---|
 | 💼 LinkedIn | [Kona Bharath Vamshidhar Reddy](https://www.linkedin.com/in/kona-bharath-vamshidhar-reddy) |
 | 💻 GitHub | [Stevemeg](https://github.com/Stevemeg) |
-| 📧 Email | *Add your email here* |
+| 📧 Email | konabharath2004@gmail.com |
 
 </div>
 
