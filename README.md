@@ -125,7 +125,6 @@ Generative AI Systems              Data Analysis & Visualization
 
 ---
 
-## GitHub Stats
 
 
 
