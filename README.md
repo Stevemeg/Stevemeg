@@ -32,8 +32,6 @@ Currently building:
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
 ### ML & Deep Learning Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -98,6 +96,7 @@ Deep learning system for Visual Question Answering combining CNN-based image enc
 
 | Certificate | Issuer | Date | Verify |
 |---|---|---|---|
+| **ML Statistical Foundations Professional Certificate** | Wolfram Research / LinkedIn Learning | Nov 2025 | ID: d57615d3 |
 | Data Analysis with Tableau | Tableau / Coursera | Nov 2024 | [✓ Verify](https://coursera.org/verify/0UUM3W2VA43K) |
 | Intro to Operating Systems & Hardware | Illinois Tech / Coursera | Dec 2024 | [✓ Verify](https://coursera.org/verify/BQNC0VCW4T7T) |
 | Programming Fundamentals in Kotlin | Meta / Coursera | Nov 2024 | [✓ Verify](https://coursera.org/verify/XWMQH4BRHS2N) |
@@ -125,6 +124,9 @@ Generative AI Systems              Data Analysis & Visualization
 ```
 
 ---
+
+## GitHub Stats
+
 
 
 ---
