@@ -6,7 +6,7 @@
 
 *Building production-grade AI systems that solve real-world data limitations*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kona-bharath-vamshidhar-reddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-Stevemeg-181717?style=for-the-badge&logo=github)](https://github.com/Stevemeg)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00AA00?style=for-the-badge)
 
@@ -140,6 +140,6 @@ Generative AI Systems              Data Analysis & Visualization
 
 **Let's connect and build something impactful.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kona-bharath-vamshidhar-reddy/)
 
 </div>
