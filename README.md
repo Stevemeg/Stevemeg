@@ -92,7 +92,7 @@ An eleven-agent platform that ingests behavioral, browser, screen, and code-acti
 
 ---
 
-###  [Universal AI Job Acquisition Agent](https://github.com/Stevemeg/ai-job-agent)
+###  [Universal AI Job Acquisition Agent](https://github.com/Stevemeg/ai-job-agent) · [Live Demo](https://ai-job-agent-12.streamlit.app/)
 A career-intelligence platform that parses a resume, scores it honestly across six explainable dimensions, sources real jobs from legal ATS APIs (Greenhouse + Ashby), and ranks them with a fully decomposed, explainable weighted score — then tailors a resume per job through a deterministic hallucination validator that catches fabricated tools or metrics before they ship.
 
 **Highlights:** 3,875 deduplicated real jobs sourced from legal ATS APIs · 91/100 Resume Health Score on test profile · hallucination validator with 0 false positives on truthful rewrites · dual LLM backend (Ollama locally, Groq in production) · 68-test suite, green in CI · 13 REST endpoints
